@@ -31,7 +31,7 @@ h1,h2 {
 header h1 {
 	
  	font-size: 80px;
- 
+
 }
 
 .navbar ul{
@@ -63,5 +63,10 @@ header h1 {
 	background-color: white;
 	color: black;
 	transition: .4s;
+}
+
+.container {
+	font-size: 20px;
+	
 }
 
